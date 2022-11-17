@@ -1,10 +1,31 @@
 # Black-Scholes-Merton
-Closed form solution of the Black-Scholes-Merton formula for various types of **european** options. 
+Closed form solution of the Black-Scholes-Merton formula for various types of **european Call/Put** options. 
 
 
-    - Vanilla Options 
+    - Vanilla:
+        - Greeks:
+            - Delta
+            - Gamma
+            - Tau
+            - Rho
+            - Vega
+
     - Binary Cash or nothing
+        - Greeks:
+            - Delta
+            - Gamma
+            - Tau
+            - Rho
+            - Vega
+
     - Binary Asset or nothing
+        - Greeks:
+            - Delta
+            - Gamma
+            - Tau
+            - Rho
+            - Vega
+            
     - Barriers
         - Knock-in
             - Up and In
